@@ -371,7 +371,7 @@ export const users = [
     pinned: true,
   },
   {
-    caption: "Waggel",
+    caption: "Grida",
     image: "/images/logos/grida.svg",
     infoLink: "https://grida.co",
     pinned: true,
