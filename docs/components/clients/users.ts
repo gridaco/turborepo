@@ -370,4 +370,10 @@ export const users = [
     infoLink: "https://waggel.co.uk",
     pinned: true,
   },
+  {
+    caption: "Waggel",
+    image: "/images/logos/grida.svg",
+    infoLink: "https://grida.co",
+    pinned: true,
+  },
 ];
